@@ -19,7 +19,7 @@ npm install
 👤 **Agustin**
 
 * Github: [@agussgonzalez](https://github.com/agussgonzalez)
-* LinkedIn: [@Agustin Gonzalez](https://linkedin.com/in/Agustin Gonzalez)
+* LinkedIn: [@Agustin Gonzalez](https://linkedin.com/in/AgustinGonzalez)
 
 ## Show your support
 
